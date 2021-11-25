@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Boot Camp 1
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Aprenderas todo la necesario para montar tu propio sitio web
     actions:
       - label: Learn More
         url: /features
