@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Boot Camp 1
-    subtitle: Aprenderas todo la necesario para montar tu propio sitio web
+    subtitle: Aprenderás todo la necesario para montar tu propio sitio web
     actions:
       - label: Learn More
         url: /features
